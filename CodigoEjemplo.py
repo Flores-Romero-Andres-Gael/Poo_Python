@@ -1,3 +1,6 @@
+#Flores Romero Andres Gael 
+# 16/04/2023
+
 # Clase: definición de la clase Animal
 class Animal:
     # Atributos
